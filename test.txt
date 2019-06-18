@@ -3,4 +3,3 @@ add
 add2
 branch_test
 ver1
-pull追加
